@@ -17,8 +17,7 @@ First, I reshape all the pictures to 98x98x3 in order to make training faster. T
 <img src="https://github.com/ChristophWu/CNN-Tensorflow/blob/master/material/learning_curve.png" width="500"/>
 
 - some examples of detected and undetected images
-<img src="https://github.com/ChristophWu/CNN-Tensorflow/blob/master/material/right_prediction.png" width="300"/>
-<img src="https://github.com/ChristophWu/CNN-Tensorflow/blob/master/material/wrong_prediction.png" width="300"/>
+<img src="https://github.com/ChristophWu/CNN-Tensorflow/blob/master/material/right_prediction.png" width="300"/><img src="https://github.com/ChristophWu/CNN-Tensorflow/blob/master/material/wrong_prediction.png" width="300"/>
 
 - feaure map of detected picture
 <img src="https://github.com/ChristophWu/CNN-Tensorflow/blob/master/material/feature_right.png" width="500"/>
